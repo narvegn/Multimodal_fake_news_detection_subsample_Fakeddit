@@ -1,7 +1,7 @@
 # Multimodal_fake_news_detection_subsample_Fakeddit
 Multimodal fake news detection with subsample of Fakeddit dataset. 
 Source code for fake news detection with Fakeddit dataset. 
-Notebook for script that converts input tsv-file to clean csv-file found under the file "Bi_LSTM_title.ipynb"
+Notebook for script that converts input tsv-file to clean csv-file found under the file "to_clean_sample.ipynb"
 Notebook for unimodal BiLSTM text-model found under the file "Bi_LSTM_title.ipynb"
 Notebook for unimodal CNN image-model found under the file "CNN_image.ipynb"
 Notebook for multimodal model found under the file "Multimodal_model.ipynb"
